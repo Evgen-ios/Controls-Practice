@@ -1,10 +1,3 @@
-//
-//  README.md
-//  Controls Practice
-//
-//  Created by Evgeniy Goncharov on 01.04.2021.
-//
-
 # Controls Practice
 Controls Practice for MDA
 
